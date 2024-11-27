@@ -19,7 +19,7 @@ To have fully documented data in some structure in a central database.
 
 | version | number of records | publication date | fingerprint
 | --- | --- | --- | --- | 
-| v0.1 | 1 | 2024-10-23 | |
+| v0.1 | 1 | 2024-10-23 | hash://md5/36f6226d43a533da752dd80447a8fb1b |
 
 ### v0.1
 
