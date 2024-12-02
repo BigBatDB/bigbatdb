@@ -4,7 +4,7 @@ As found in https://www.gbatnet.org/interdisciplinary-projects/#big-bat-database
 
 ## Cite 
 
-Big Bat Database v0.1 https://github.com/bigbatdb/bigbatdb hash://md5/36f6226d43a533da752dd80447a8fb1b
+Hernani F. M. Oliveira, Nancy B. Simmons, Cecilia Montauban, and Ariadna E. Morales. Big Bat Database v0.1 https://github.com/bigbatdb/bigbatdb hash://md5/36f6226d43a533da752dd80447a8fb1b
 
 
 ## Description
