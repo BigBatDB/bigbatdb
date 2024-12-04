@@ -5,7 +5,7 @@
 
 preston track\
  --algo md5\
- "https://docs.google.com/spreadsheets/d/1gtENmce4tv2AJWduWrj6dKnDFE0O-tLNZVAG6BAn5r4/edit?gid=0#gid=0"
+ "https://docs.google.com/spreadsheets/d/1xGPXuwEuqEao2ezya7kW2DWixp4pejqVEjKFD1sqG9g/edit?usp=sharing"
 
 preston head --algo md5 | preston cat | grep tsv | grep hasVersion | preston cat > bigbatdb.tsv
 preston head --algo md5 | preston cat | grep csv | grep hasVersion | preston cat > bigbatdb.csv
