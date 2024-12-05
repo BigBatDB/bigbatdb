@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ds="eml://ecoinformatics.org/dataset-2.1.1" packageId="ie.nbdc.dataset.MammalsOfIreland2016-2025" system="http://gbif.biodiversityireland.ie/" scope="system" xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1">
+  <dataset>
+    <title>Big Bat Database</title>
+    <creator>
+      <individualName>
+        <surName>Ariadna Morales</surName>
+      </individualName>
+      <organizationName>BigBatDB</organizationName>
+      <electronicMailAddress>ariadna.biologia@gmail.com</electronicMailAddress>
+      <onlineUrl>https://github.com/bigbatdb</onlineUrl>
+    </creator>
+    <pubDate>2024-12-05</pubDate>
+    <language>en</language>
+    <abstract>
+       <para>Bring together existing databases for traits (morphology, functional traits, life history traits, acoustics, behavior, genomics, habitat requirements, parasites, pathogens, population sizes, etc.) into one large global database that can underpin many different projects and use this database to answer questions about drivers of diversification, extinction, conservation, disease dynamics, evolution of traits, etc.</para>
+       <para>To set number of traits populated across many species. To gather as much data ad possible, identify the gap and develop guidelines for data collection. To have fully documented data in some structure in a central database.</para>
+    </abstract>
+    <intellectualRights>
+      <para>This work is licensed under a<ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink></para>
+    </intellectualRights>
+    <contact>
+      <individualName>
+        <givenName>Ariadna</givenName>
+        <surName>Morales</surName>
+      </individualName>
+      <organizationName>Big Bat Database</organizationName>
+      <electronicMailAddress>ariadna.biologia@gmail.com</electronicMailAddress>
+      <onlineUrl>https://github.com/bigbatdb/bigbatdb</onlineUrl>
+    </contact>
+  </dataset>
+</eml:eml>

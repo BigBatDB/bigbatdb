@@ -1,0 +1,27 @@
+<archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
+  <core encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+    <files>
+      <location>bigbatdb.tsv</location>
+    </files>
+    <id index="3" />
+    <field index="2" term="http://rs.tdwg.org/dwc/terms/family"/>
+    <field index="3" term="http://rs.tdwg.org/dwc/terms/scientificName" />
+    <field index="14" term="http://purl.org/dc/terms/bibliographicCitation" />
+  </core>
+  <extension encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/MeasurementOrFact">
+    <files>
+      <location>bigbatdb.tsv</location>
+    </files>
+    <id index="3" />
+    <field index="1" term="http://rs.tdwg.org/dwc/terms/measurementDeterminedBy"/>
+    <field index="7" term="http://rs.tdwg.org/dwc/terms/measurementMethod"/>
+    <field index="9" term="http://rs.tdwg.org/dwc/terms/measurementValue"/>
+    <field index="10" term="http://rs.tdwg.org/dwc/terms/measurementUnit"/>
+    <field index="11" term="http://rs.tdwg.org/dwc/terms/measurementAccuracy"/>
+    <field index="14" term="http://purl.org/dc/terms/bibliographicCitation" />
+    <field index="15" term="http://rs.tdwg.org/dwc/terms/associatedReferences" />
+    <field index="16" term="http://rs.tdwg.org/dwc/terms/associatedReferences" />
+    <field default="LiteratureObservation" term="http://purl.org/dc/terms/basisOfRecord"/>
+  </extension>
+</archive>
+ 
