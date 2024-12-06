@@ -26,6 +26,7 @@ To have fully documented data in some structure in a central database.
 After consult with [Encyclopedia of Life on data format](https://github.com/bigbatdb/bigbatdb/issues/1) and transcription from [Koopman 1994](https://linker.bio/hash://md5/791d7aef792ee698134b54daddb21eb4) of [BatLit v0.6](https://batlit.org) the following files where generated through in a [google sheet](https://docs.google.com/spreadsheets/d/1xGPXuwEuqEao2ezya7kW2DWixp4pejqVEjKFD1sqG9g/edit?gid=0#gid=0) as tracked via [track.sh](./track.sh). 
 
  | name | description | 
+ | --- | --- |
  | [bigbatdb.tsv](./bigbatdb.tsv) | tab-separated format |
  | [bigbatdb.xlsx](./bigbatdb.xslx) | excel format | 
  | [bigbatdb.csv](./bigbatdb.csv) | comma-separated format |
