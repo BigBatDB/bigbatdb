@@ -1,12 +1,11 @@
 <archive xmlns="http://rs.tdwg.org/dwc/text/" metadata="eml.xml">
   <core encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
     <files>
-      <location>bigbatdb.tsv</location>
+      <location>taxa.tsv</location>
     </files>
-    <id index="3" />
-    <field index="2" term="http://rs.tdwg.org/dwc/terms/family"/>
-    <field index="3" term="http://rs.tdwg.org/dwc/terms/scientificName" />
-    <field index="14" term="http://purl.org/dc/terms/bibliographicCitation" />
+    <id index="1" />
+    <field index="0" term="http://rs.tdwg.org/dwc/terms/family"/>
+    <field index="1" term="http://rs.tdwg.org/dwc/terms/scientificName" />
   </core>
   <extension encoding="utf-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy="" ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/MeasurementOrFact">
     <files>
